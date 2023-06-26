@@ -1,5 +1,8 @@
 # FileHashCheckerPS1
-PowerShell script to calculate the checksum of a file using different algorithms (MD5, SHA1, SHA256, SHA512)
+PowerShell script to calculate the checksum of a file using different algorithms (MD5, SHA1, SHA256, SHA512) 
+
+## Description
+This PowerShell script will prompt the user to provide the file path of a file, it will then prompt the user for the algorithm to be used and will provide a checksum/hash value that in turn can be checked against a known checksum/hash value for integrity/security.
 
 ## What is a Checksum?
 
