@@ -2,7 +2,28 @@
 PowerShell script to calculate the checksum of a file using different algorithms (MD5, SHA1, SHA256, SHA512) 
 
 ## Description
-This PowerShell script will prompt the user to provide the file path of a file, it will then prompt the user for the algorithm to be used and will provide a checksum/hash value that in turn can be checked against a known checksum/hash value for integrity/security.
+This PowerShell script, calculates the checksum of a file using different algorithms. It provides options to choose from four different hashing algorithms: MD5, SHA1, SHA256, and SHA512.
+
+## Usage
+
+1. The script prompts the user to enter the file path of the file to calculate the checksum for.
+2. Next, the user selects the desired algorithm for the checksum calculation.
+3. The script calculates the checksum of the file using the selected algorithm and displays the result in the corresponding algorithm-specific color.
+4. The user is then given the option to check another file or exit the script.
+5. If the user chooses to check another file, the process is repeated from step 1.
+6. If the user decides to exit, the script displays a farewell message and terminates after waiting for a key press.
+7. The script also encourages the user to go forth and do great things!
+
+**Algorithm Choices:**
+- MD5 (Yellow)
+- SHA1 (Cyan)
+- SHA256 (Magenta)
+- SHA512 (Green)
+
+> Note: The file path is checked for existence, and if it is invalid, the user is prompted to enter a valid path. Quotes around the file path can be used as in the case of copying the filepath from a Windows file
+
+> This script was created by **nestorcuevas**. Go forth and do great things!
+
 
 ## What is a Checksum?
 
