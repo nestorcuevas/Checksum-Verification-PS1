@@ -7,6 +7,7 @@
 
 
 
+
 ## Description
 This PowerShell script, calculates the checksum of a file using different algorithms. It provides options to choose from four different hashing algorithms: MD5, SHA1, SHA256, and SHA512.
 
