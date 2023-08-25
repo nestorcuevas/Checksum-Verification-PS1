@@ -1,5 +1,9 @@
 # Checksum-Verification-PS1
 <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/Made_by-8comma1-blue" /> 
+![GitHub followers](https://img.shields.io/github/followers/nestorcuevas)
+![GitHub Repo stars](https://img.shields.io/github/stars/nestorcuevas/Checksum-Verification-PS1)
+
+
 
 ## Description
 This PowerShell script, calculates the checksum of a file using different algorithms. It provides options to choose from four different hashing algorithms: MD5, SHA1, SHA256, and SHA512.
