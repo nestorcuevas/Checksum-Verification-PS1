@@ -1,11 +1,14 @@
 # Checksum-Verification-PS1
+
+<div align="center">
+  
 <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/Made_by-8comma1-blue" /> 
 ![GitHub followers](https://img.shields.io/github/followers/nestorcuevas)
 ![GitHub Repo stars](https://img.shields.io/github/stars/nestorcuevas/Checksum-Verification-PS1)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/nestorcuevas/Checksum-Verification-PS1)
 ![GitHub commits since latest release (by SemVer including pre-releases)](https://img.shields.io/github/commits-since/nestorcuevas/Checksum-Verification-PS1/latest/main)
 
-
+</div>
 
 
 
