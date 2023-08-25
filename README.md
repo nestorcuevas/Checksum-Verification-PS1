@@ -3,6 +3,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/nestorcuevas)
 ![GitHub Repo stars](https://img.shields.io/github/stars/nestorcuevas/Checksum-Verification-PS1)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/nestorcuevas/Checksum-Verification-PS1)
+![GitHub commits since latest release (by SemVer including pre-releases)](https://img.shields.io/github/commits-since/nestorcuevas/Checksum-Verification-PS1/latest/main)
+
 
 
 
